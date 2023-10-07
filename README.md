@@ -1,0 +1,2 @@
+# danisjanet
+ip publik
